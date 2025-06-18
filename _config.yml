@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ![line drawing of a studious squirrel](/assets/images/justkristin_squirrel.jpg)
+avatar: "/assets/images/justkristin_squirrel.jpg"
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
